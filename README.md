@@ -1,7 +1,6 @@
-hello word; 
-my name is Danylo;  
-I have 15 years old; 
-i am a young programmer; 
-a mid-programer; 
-i work with javascript but i want to learn C++; 
-print('GOOD-BYE');end; 
+<h1>hello word;</h1></br> 
+my name is <b>Danylo</b>;</br>  
+I'm <b>16</b> years old;</br> 
+I'm a young programmer; </br>
+I like <div onload="()=>{}">hacking</div>
+
