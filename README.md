@@ -2,5 +2,5 @@
 my name is <b>Danylo</b>;</br>  
 <b>16</b> years old;</br> 
 programmer; </br>
-interests: <n>security\computer engineer.<\n>
+interests: securityc && omputer engineer
 
